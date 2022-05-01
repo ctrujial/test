@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "franwork testing cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "end",
+    "to",
+    "end",
+    "cypress"
+  ],
+  "author": "ctrujial",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}
