@@ -18,3 +18,5 @@ selectores
                            // $= match a sutfix
                            // *= match a substring(contains)
             //ejmplo: a[targent^=_](empieza) / a[targent$='nk(que termine con nk) / a[targent*='an(busca que tenga an en algun lugar de <a target="_blank" )] ]
+            
+//https://docs.cypress.io/guides/guides/command-line#How-to-run-commands
